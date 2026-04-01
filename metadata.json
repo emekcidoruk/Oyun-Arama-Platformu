@@ -1,0 +1,5 @@
+{
+  "name": "Oyun Arama Platformu",
+  "description": "A gaming website that displays discounted games using the Steam API with filtering options.",
+  "requestFramePermissions": []
+}
